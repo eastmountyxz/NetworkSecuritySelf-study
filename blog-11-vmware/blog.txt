@@ -1,0 +1,14 @@
+[网络安全自学篇] 十一.虚拟机VMware+Kali安装入门及Sqlmap基本用法
+https://blog.csdn.net/Eastmount/article/details/101000161
+
+一.虚拟机安装
+
+二.创建虚拟机并载入Kali Linux
+
+三.安装Kali Linux
+
+四.Kali功能介绍
+
+五.Sqlmap基本用法
+
+PS：由于该文件过大，Github无法上传，建议读者寻找其他的途径。
