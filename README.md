@@ -26,6 +26,7 @@
 
 作者CSDN原文链接：[https://blog.csdn.net/Eastmount/article/details/102511286](https://blog.csdn.net/Eastmount/article/details/102511286)
 
+PS：由于作者还在学习github用法，命令行受速度限制总报错，这里采用手动创建文件夹并添加文件的笨办法，醉了！同时，Wireshark和BurpSuite、虚拟机较大，暂未上传，待作者认真学习之后更新。同时，后续作者会陆续将Python网络爬虫、数据分析、深度学习和图像识别、知识图谱的代码分别共享出来，供大家一起交流学习。且行且珍惜，真的很感谢这来之不易的博士学习机会，加油。
 
 By:Easatmount 杨秀璋
 
