@@ -22,7 +22,8 @@
 [网络安全自学篇] 十六.Python攻防之弱口令、自定义字典生成及网站暴库防护 <br />
 [网络安全自学篇] 十七.Python攻防之构建Web目录扫描器及ip代理池（四） <br />
 [网络安全自学篇] 十八.XSS跨站脚本攻击原理及代码攻防演示（一） <br />
-
+[网络安全自学篇] 十九.Powershell基础入门及常见用法（一） <br />
+[网络安全自学篇] 二十.Powershell基础入门及常见用法（二） <br />
 
 作者CSDN原文链接：[https://blog.csdn.net/Eastmount/article/details/102511286](https://blog.csdn.net/Eastmount/article/details/102511286)
 
