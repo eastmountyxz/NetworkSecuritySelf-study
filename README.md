@@ -4,6 +4,12 @@
 
 这是作者的系列网络安全自学教程，主要是关于网安工具和实践操作的在线笔记，希望对大家有所帮助，学无止境，加油。
 
+全文PDF版本地址：
+- [https://github.com/eastmountyxz/CSDNBlog-Security-Based](https://github.com/eastmountyxz/CSDNBlog-Security-Based)
+
+
+完整标题及CSDN链接：
+
 - [[网络安全自学篇] 一.入门笔记之看雪Web安全学习及异或解密示例](https://blog.csdn.net/Eastmount/article/details/97784774)
 - [[网络安全自学篇] 二.Chrome浏览器保留密码功能渗透解析及登录加密入门笔记](https://blog.csdn.net/Eastmount/article/details/98340074)
 - [[网络安全自学篇] 三.Burp Suite工具安装配置、Proxy基础用法及暴库示例](https://blog.csdn.net/Eastmount/article/details/98469967)
