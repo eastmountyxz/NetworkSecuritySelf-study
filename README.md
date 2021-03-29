@@ -5,8 +5,8 @@
 这是作者的系列网络安全自学教程，主要是关于网安工具和实践操作的在线笔记，希望对大家有所帮助，学无止境，加油。
 
 该工具百度下载地址（后续有时间系统整理工具集合）：
--
--
+- 链接：https://pan.baidu.com/s/1HF9MaTpsm-vmLzzGo3hBFA 
+- 提取码：qeej 
 
 全文PDF版本地址：
 - [https://github.com/eastmountyxz/CSDNBlog-Security-Based](https://github.com/eastmountyxz/CSDNBlog-Security-Based)
