@@ -1,0 +1,20 @@
+Note of Correction (June 26, 2007)
+
+There was one typo in this data set.  It was in row 4817100 
+in kddcup.data (and line 485798 in kddcup.data_10_percent):
+
+0,tcp,private,S0,0,0,0,0,0,0,0,0,0,0,00,tcp,http,SF,334,1684,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,9,0.00,0.00,0.00,0.00,0.33,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,normal.
+
+
+Notice that part of another row was appended to this row 
+(it probably was an accidental duplication of the row above).  
+We have fixed the typo by removing the "partial row", so now
+the row looks like this:
+
+0,tcp,http,SF,334,1684,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,9,0.00,0.00,0.00,0.00,1.00,0.00,0.33,0,0,0.00,0.00,0.00,0.00,0.00,0.00,normal.
+
+The correct data is now in kddcup.data.gz and kddcup-data_10_percent.gz.  
+
+Many thanks to those who have notified us of this typo.
+
+--Librarian
