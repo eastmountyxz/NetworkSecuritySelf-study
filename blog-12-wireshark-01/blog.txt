@@ -1,8 +1,0 @@
-[网络安全自学篇] 十二.Wireshark安装入门及抓取网站用户名密码（一）
-https://blog.csdn.net/Eastmount/article/details/101076537
-
-一.什么是Wireshark?
-
-二.Wireshark安装
-
-三.Wireshark抓取网站用户名和密码
