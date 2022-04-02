@@ -122,4 +122,18 @@ By:Easatmount 杨秀璋
 
 
 
+**沙箱：**
+- 微步沙盒：https://s.threatbook.cn/
+- 腾讯哈勃分析系统：https://habo.qq.com/
+- 魔盾：https://www.maldun.com/analysis/
+- 微点沙盒：https://sandbox.depthsec.com.cn/index.php/
+- 奇安信文件深度分析平台：https://sandbox.ti.qianxin.com/sandbox/page
+- ANYRUN：https://app.any.run/
+- HybridAnalysis (Falcon Sandbox)：https://www.hybrid-analysis.com/
+- CAPE Sandbox: https://capesandbox.com/
+- BD Sandbox Analyzer：https://www.bitdefender.com/business/enterprise-products/sandbox-analyzer.html
+- Joe Sanbox: https://www.joesandbox.com/
+
+
+
 2019-10-16
