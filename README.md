@@ -2,7 +2,7 @@
 
 ---
 
-这是作者的系列网络安全自学教程，主要是关于网安工具和实践操作的在线笔记，希望对大家有所帮助，学无止境，加油。
+这是作者的系列网络安全自学教程，主要是关于网安案例和实践操作的在线笔记。以实例为主，安全工具推荐大家购买正版使用，基础性文章，希望对大家有所帮助，学无止境，加油。
 
 全文PDF版本地址：
 - [https://github.com/eastmountyxz/CSDNBlog-Security-Based](https://github.com/eastmountyxz/CSDNBlog-Security-Based)
