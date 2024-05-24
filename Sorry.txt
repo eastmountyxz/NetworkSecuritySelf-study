@@ -1,7 +1,0 @@
-由于作者不太熟悉Github，而且Pull文件总是卡在unpacking objects节点，导致无法正常上传，望读者见谅！
-这个文件是作者在该主路径下创建的一个 test.py 临时文件，最后由于无法删除（调用命令行总失败），最终修改为 Sorry.txt ，请读者见谅！
-后续作者会分享更多代码至Github，包括Python网络爬虫、数据分析、深度学习、图像识别、网络安全等系列，一起进步，一起加油。
-
-该网络安全资源也可以从百度网盘下载：
-https://pan.baidu.com/s/1dsunH8EmOB_tlHYXXguOeA 提取码：izeb
-
